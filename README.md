@@ -17,7 +17,7 @@ Hi there! I'm Rayhan, a passionate developer and tech enthusiast. I love explori
 
 🔗 **Connect with Me**:  
 - [LinkedIn](https://www.linkedin.com/in/rayhan-rambe-303aba25b/)
-- [Instagram](https://www.instagram.com/rayhanatricha/profilecard/?igsh=OWo0Mmk2bTd6eTE3))
+- [Instagram](https://www.instagram.com/rayhanatricha/profilecard/?igsh=OWo0Mmk2bTd6eTE3)
 
 
 Thanks for visiting my profile! Feel free to reach out if you have any questions or collaboration opportunities.
