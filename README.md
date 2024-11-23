@@ -3,9 +3,8 @@
 Hi there! I'm Rayhan, a passionate developer and tech enthusiast. I love exploring new technologies, solving problems, and working on exciting projects. Here you'll find my work in various programming languages, tools, and frameworks that I am constantly improving my skills in.
 
 🚀 **Currently learning**:  
-- Machine Learning with Python  
 - Web Development with React & Node.js  
-- Cloud technologies like AWS and Azure
+- Cloud technologies 
 
 🔧 **Languages and Tools**:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siuuuu78&layout=compact&theme=radical)
