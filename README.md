@@ -1,6 +1,6 @@
 # Welcome to My GitHub Profile! 👋
 
-Hi there! I'm Rayhan, a passionate developer and tech enthusiast. I love exploring new technologies, solving problems, and working on exciting projects. Here you'll find my work in various programming languages, tools, and frameworks that I am constantly improving my skills in.
+Hi there! I'm Rayhan Atricha Rambe, a passionate developer and tech enthusiast. I love exploring new technologies, solving problems, and working on exciting projects. Here you'll find my work in various programming languages, tools, and frameworks that I am constantly improving my skills in.
 
 🚀 **Currently learning**:  
 - Web Development with React & Node.js  
